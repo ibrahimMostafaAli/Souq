@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace SouqApp.Controllers
 {
-    public class userController : Controller
+    public class TestController : Controller
     {
-        // GET: user
+        // GET: Test
         public ActionResult Index()
         {
             return View();
